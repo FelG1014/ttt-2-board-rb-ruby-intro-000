@@ -11,7 +11,7 @@ row[2]
 
 # Move X to the Position 2, Middle
 row[1] = "X"
-row #=> ["0","X", "2"]
+row #=> ["0", "X", "2"]
 
 # Position 4: Left
 row[3]
